@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/www-rlp/static/css/main.97f03f86.chunk.css",
+    "main.js": "/www-rlp/static/js/main.d8f935dc.chunk.js",
+    "main.js.map": "/www-rlp/static/js/main.d8f935dc.chunk.js.map",
+    "runtime~main.js": "/www-rlp/static/js/runtime~main.414fc7fe.js",
+    "runtime~main.js.map": "/www-rlp/static/js/runtime~main.414fc7fe.js.map",
+    "static/js/2.29674467.chunk.js": "/www-rlp/static/js/2.29674467.chunk.js",
+    "static/js/2.29674467.chunk.js.map": "/www-rlp/static/js/2.29674467.chunk.js.map",
+    "index.html": "/www-rlp/index.html",
+    "precache-manifest.2ea4dbf4607d447842635263191c983f.js": "/www-rlp/precache-manifest.2ea4dbf4607d447842635263191c983f.js",
+    "service-worker.js": "/www-rlp/service-worker.js",
+    "static/css/main.97f03f86.chunk.css.map": "/www-rlp/static/css/main.97f03f86.chunk.css.map"
+  }
+}
